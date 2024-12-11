@@ -1,0 +1,101 @@
+body {
+  background-color: rgb(168, 241, 109);
+}
+
+a.maidz {
+  margin-left: 80%;
+  background-color: antiquewhite;
+
+  text-decoration: none;
+  display: inline-block;
+  width: 80px;
+  height: 40px;
+
+  border-radius: 10px;
+}
+a {
+  background-color: antiquewhite;
+  text-decoration: none;
+  display: inline-block;
+  width: 90px;
+  height: 40px;
+  text-align: center;
+  line-height: 35px;
+  border-radius: 10px;
+}
+h1 {
+  color: rgb(233, 152, 32);
+  text-align: center;
+}
+a:hover {
+  transform: scale(1.2);
+  background-color: aqua;
+  transition: all 0.3s ease;
+}
+td.td2 {
+  width: 100%;
+}
+h5 {
+  margin-top: 0%;
+  text-align: center;
+  color: rgb(238, 137, 5);
+}
+td.td1 {
+  background-color: antiquewhite;
+}
+th,
+td.a1 {
+  width: 90px;
+  height: 90px;
+}
+img {
+  border-radius: 10px;
+  width: 100%;
+  height: 100%;
+}
+a.a1 {
+  width: 100%;
+  height: 100%;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+div.demo {
+  text-align: center;
+  background-color: rgb(186, 186, 173);
+  width: 50%;
+  margin: 10% 50% 30% 25%;
+}
+table {
+  text-align: center;
+  border-collapse: collapse;
+  width: 100%;
+  height: 100%;
+}
+.a1.a2 {
+  height: 60%;
+  margin-top: 20%;
+}
+a.maidz {
+  font-size: larger;
+}
+a.maidz.maidz1 {
+  margin-left: 0%;
+}
+td.td1 {
+  margin-top: 5px;
+}
+th.login {
+  margin-top: 1px;
+}
+table.demo {
+  border: solid;
+}
+h5 {
+  text-align: center;
+}
+a.demo1 {
+  width: 60%;
+  height: 70%;
+}
