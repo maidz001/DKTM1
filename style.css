@@ -132,3 +132,8 @@ img.sotayimg {
   height: 11%;
   margin-left: 89%;
 }
+table.img,
+td.capnhat,
+th.capnhat {
+  background-color: beige;
+}
