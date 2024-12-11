@@ -116,3 +116,14 @@ th.capnhat {
   border: solid;
   width: 50%;
 }
+h1.logo {
+  margin-left: 90%;
+}
+tr.logo1 {
+  width: 100%;
+}
+img.logo1 {
+  width: 10%;
+  height: 10%;
+  margin-left: 90%;
+}
