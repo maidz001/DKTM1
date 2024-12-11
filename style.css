@@ -99,3 +99,20 @@ a.demo1 {
   width: 60%;
   height: 70%;
 }
+div {
+  width: 100%;
+  height: 100%;
+}
+table.capnhat {
+  width: 100%;
+  height: 100%;
+}
+td.capnhat {
+  width: 30%;
+  height: 50%;
+  border: solid;
+}
+th.capnhat {
+  border: solid;
+  width: 50%;
+}
