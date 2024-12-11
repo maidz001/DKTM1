@@ -141,3 +141,8 @@ th.capnhat {
 h1.logo {
   font-size: 7vw;
 }
+table.tab {
+  margin-top: 10px;
+  width: 100vw;
+  height: 50vw;
+}
